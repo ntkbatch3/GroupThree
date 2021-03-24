@@ -8,6 +8,9 @@ public class ProjectOne {
 		System.out.println("Practice 1");
 		
 		System.out.println("Done by AhmEd");
+		
+		
+		System.out.println("Amanda");
 	}
 
 }
