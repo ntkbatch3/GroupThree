@@ -13,6 +13,8 @@ public class ProjectOne {
 		System.out.println("Amanda");
 		
 		System.out.println("KA practice");
+		
+		System.out.println("Day 2 practice");
 	}
 
 }
