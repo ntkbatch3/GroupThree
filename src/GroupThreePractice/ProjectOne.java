@@ -11,6 +11,8 @@ public class ProjectOne {
 		
 		
 		System.out.println("Amanda");
+		
+		System.out.println("KA practice");
 	}
 
 }
