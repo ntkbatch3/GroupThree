@@ -15,6 +15,8 @@ public class ProjectOne {
 		System.out.println("KA practice");
 		
 		System.out.println("Day 2 practice");
+		
+		System.out.println("Interview Practice");
 	}
 
 }
